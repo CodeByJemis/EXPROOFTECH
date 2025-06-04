@@ -105,7 +105,7 @@ header {
 /* Hero Section */
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-    url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&w=1200') no-repeat center center/cover;
+    url('HomePageBanner.jpg') no-repeat center center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
